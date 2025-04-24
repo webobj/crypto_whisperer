@@ -109,19 +109,19 @@ Edit ~/Library/Application\ Support/Claude/claude_desktop_config.json
     "masa_mcp_server": {
             "command": "<install_directory>/venv/bin/python3",
             "args": [
-                "<install_directory>/masa_mcp_server.py"
+                "<install_directory>/src/masa_mcp_server.py"
             ]
     },
     "token_metrics_mcp_server": {
             "command": "<install_directory>/venv/bin/python3",
             "args": [
-                "<install_directory>/token_metrics_mcp_server.py"
+                "<install_directory>/src/token_metrics_mcp_server.py"
             ]
     }, 
     "trading_mcp_server": {
         "command": "<install_directory>/venv/bin/python3",
             "args": [
-                "<install_directory>/trading_mcp_server.py"
+                "<install_directory>/src/trading_mcp_server.py"
             ]
     }
   }
