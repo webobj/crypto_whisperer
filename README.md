@@ -140,5 +140,5 @@ problem. Typically, it is the path part in the config file above.
 ### Demo Conversation 
 - A demo conversation with the Crypto-Whisperer can be found at
 https://claude.ai/public/artifacts/89c4c1b4-f179-4dbd-b514-79aee55d4265
-
+- A demo video of the Crypto-Whisperer can be found at https://youtu.be/BsOn3KO99cQ
 

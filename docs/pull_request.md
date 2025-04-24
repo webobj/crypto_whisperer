@@ -19,3 +19,4 @@ Nature language trading: We've built a first-of-its kind AI crypto trading exper
 
 We believe that this is the next generation of Agentic trading where wallet is built into the MCP clients.
  
+Link to demo video: https://youtu.be/BsOn3KO99cQ
